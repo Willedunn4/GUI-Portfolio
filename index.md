@@ -5,7 +5,4 @@
 
 
 
-```markdown
-Syntax highlighted code block
-
 ## Substitution Cypher GUI
